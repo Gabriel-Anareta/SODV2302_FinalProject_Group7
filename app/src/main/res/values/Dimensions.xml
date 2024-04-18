@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="Padding_Small">8dp</dimen>
+    <dimen name="Padding_Medium">16dp</dimen>
+    <dimen name="Padding_Large">32dp</dimen>
+    <dimen name="Base_Cover_Image_Size">128dp</dimen>
+</resources>
